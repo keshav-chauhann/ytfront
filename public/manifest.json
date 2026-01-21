@@ -1,0 +1,20 @@
+{
+  "short_name": "YT Suite",
+  "name": "YouTube Media Suite Pro",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#111827",
+  "theme_color": "#EF4444",
+  "display": "standalone"
+}
