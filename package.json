@@ -1,8 +1,8 @@
 {
-  "name": "youtube-downloader-frontend",
+  "name": "ytsuite",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://keshav-chauhann.github.io/ytfront",
+  "homepage": "https://youtubesuite.me",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
